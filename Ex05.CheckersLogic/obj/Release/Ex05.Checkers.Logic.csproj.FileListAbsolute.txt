@@ -1,0 +1,7 @@
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersLogic\bin\Release\Ex05.CheckersLogic.dll.config
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersLogic\bin\Release\Ex05.CheckersLogic.dll
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersLogic\bin\Release\Ex05.CheckersLogic.pdb
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersLogic\obj\Release\Ex05.Checkers.Logic.csproj.AssemblyReference.cache
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersLogic\obj\Release\Ex05.Checkers.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersLogic\obj\Release\Ex05.CheckersLogic.dll
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersLogic\obj\Release\Ex05.CheckersLogic.pdb

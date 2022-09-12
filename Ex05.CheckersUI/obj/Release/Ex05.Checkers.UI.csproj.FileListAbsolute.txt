@@ -1,0 +1,16 @@
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\bin\Release\Ex05.CheckersUI.exe.config
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\bin\Release\Ex05.CheckersUI.exe
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\bin\Release\Ex05.CheckersUI.pdb
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\bin\Release\Ex05.CheckersLogic.dll
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\bin\Release\Ex05.CheckersLogic.pdb
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\bin\Release\Ex05.CheckersLogic.dll.config
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.Checkers.UI.csproj.AssemblyReference.cache
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.Checkers.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.CheckersUI.BoardForm.resources
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.CheckersUI.GameSettingsForm.resources
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.CheckersUI.Properties.Resources.resources
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.Checkers.UI.csproj.GenerateResource.cache
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.Checkers.UI.csproj.CoreCompileInputs.cache
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.Checkers.UI.csproj.CopyComplete
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.CheckersUI.exe
+C:\Users\Yuval\Desktop\IDC\C#\Hw5\B22 Ex05 YuvalFrenkel 206481475 NogaRosenberg 204541866\Ex05.CheckersUI\obj\Release\Ex05.CheckersUI.pdb
